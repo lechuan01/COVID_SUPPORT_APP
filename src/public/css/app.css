@@ -1636,16 +1636,11 @@ select {
     position: relative;
     width: 100%;
   }
-  .dtr_search .dtr-salign {
-    height: 30px;
-  }
+
   .dtr_search .dtr-salign input {
     position: relative;
     height: 100%;
     width: 100px;
-  }
-  .dtr_search .dtr-filter {
-    height: 30px;
   }
 
   .dtr-profile-modal {
